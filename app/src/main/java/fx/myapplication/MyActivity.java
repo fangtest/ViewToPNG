@@ -9,7 +9,6 @@ import android.widget.TextView;
 
 import java.io.FileOutputStream;
 
-
 public class MyActivity extends ActionBarActivity {
     TextView vHello;   // 一个写着hello的textview,背景为红色
     Bitmap bitmap;
